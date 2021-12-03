@@ -1,7 +1,4 @@
-##James Proctor
-
-<!--
-**atchafalaya/atchafalaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## James Proctor
 
 ##About
 #### I'm a former offshore oilfield worker and veteran who's trying to break into the world of web development. 
@@ -15,7 +12,8 @@
 ##Contact
 ####atchafalaya@gmail.com
 
-
+<!--
+**atchafalaya/atchafalaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
