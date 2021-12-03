@@ -1,7 +1,22 @@
-### Hi there 👋
+##James Proctor
 
 <!--
 **atchafalaya/atchafalaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+##About
+#### I'm a former offshore oilfield worker and veteran who's trying to break into the world of web development. 
+
+##Skills
+#### JavaScript, HTML, CSS
+
+##Projects
+#### Please see my [Capstone Project](https://github.com/atchafalaya/Capstone 
+
+##Contact
+####atchafalaya@gmail.com
+
+
+
 
 Here are some ideas to get you started:
 
