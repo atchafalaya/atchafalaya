@@ -1,13 +1,13 @@
 # James Proctor
 
 ## About
-#### I'm a former offshore oilfield worker and veteran trying to break into the world of web development. 
+#### I'm a former offshore oilfield worker and Army veteran trying to break into the world of web development. 
 
 ## Skills
 #### JavaScript, HTML, CSS
 
 ## Projects
-#### Please see my [Capstone Project](https://github.com/atchafalaya/Capstone)
+#### Please see my [To-Do List Project](https://github.com/atchafalaya/Capstone)
 
 ## Contact
 #### atchafalaya@gmail.com
