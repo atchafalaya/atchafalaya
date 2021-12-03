@@ -7,7 +7,7 @@
 #### JavaScript, HTML, CSS
 
 ## Projects
-#### Please see my [Capstone Project](https://github.com/atchafalaya/Capstone 
+#### Please see my [Capstone Project](https://github.com/atchafalaya/Capstone)
 
 ## Contact
 #### atchafalaya@gmail.com
