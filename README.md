@@ -1,16 +1,16 @@
 ## James Proctor
 
-##About
+## About
 #### I'm a former offshore oilfield worker and veteran who's trying to break into the world of web development. 
 
-##Skills
+## Skills
 #### JavaScript, HTML, CSS
 
-##Projects
+## Projects
 #### Please see my [Capstone Project](https://github.com/atchafalaya/Capstone 
 
-##Contact
-####atchafalaya@gmail.com
+## Contact
+#### atchafalaya@gmail.com
 
 <!--
 **atchafalaya/atchafalaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
