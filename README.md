@@ -1,7 +1,7 @@
-## James Proctor
+# James Proctor
 
 ## About
-#### I'm a former offshore oilfield worker and veteran who's trying to break into the world of web development. 
+#### I'm a former offshore oilfield worker and veteran trying to break into the world of web development. 
 
 ## Skills
 #### JavaScript, HTML, CSS
